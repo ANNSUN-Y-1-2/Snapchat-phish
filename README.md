@@ -1,7 +1,7 @@
 
 ## Snapchat Phish Codes
 
-A comprehensive guide to setting up Snapchat Fish.
+A comprehensive guide to setting up Snapchat phish.
 
 How to Set Up
 
